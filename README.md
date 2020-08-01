@@ -27,8 +27,7 @@ le astronavi possono muoversi solo orizzontalmente;
 
 se la pallina cade nella porzione sottostante e rispettivamente sovrastante alle astronavi si perde una vita; (valido se è presente solo una pallina nel gioco)
 
-le gemme offrono un incremento del punteggio molto superiore rispetto ai mattoncini;
-
+le gemme offrono un incremento del punteggio molto superiore rispetto ai mattoncini;\n
 esaurite tutte le vite il gioco termina.
 
 Nella schermata del gioco è presente il numero delle vite e il punteggio, questo influenza la difficoltà del gioco in quanto un punteggio maggiore implica maggiore velocità della pallina e una maggiore probabilità di trovare mattoncini
