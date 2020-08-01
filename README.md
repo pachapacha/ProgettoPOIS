@@ -4,7 +4,7 @@ Andrea Pachavroski
 
 Matricola 271473
 
-Titolo
+Titolo DoubleArkanoid
 
 # Specifica
 Il progetto consiste nella realizzazione di un gioco che abbia le seguenti caratteristiche:
