@@ -16,11 +16,11 @@ la schermata del gioco è caratterizzata dalla presenza di due "astronavi"(racch
 - mattoncini che stanno a guardia delle gemme e possono essere di tre tipologie a seconda della quantità di colpi necessaria a distruggerli;
 - gemme che possono essere di tre tipi diversi, a cui è associato un effetto diverso una volta colpiti:
 
-  -rubino, riduce momentaneamente la velocità della pallina,
+  - rubino, riduce momentaneamente la velocità della pallina,
   
-  -smeraldo, mette in gioco un'altra pallina,
+  - smeraldo, mette in gioco un'altra pallina,
   
-  -ametista, dona una vita extra.
+  - ametista, dona una vita extra.
 
 Lo scopo del gioco è ottenere il punteggio più alto possibile distruggendo mattoncini e gemme, facendo rimbalzare la pallina sulle astronavi e tenendo conto che:
 le astronavi possono muoversi solo orizzontalmente;
