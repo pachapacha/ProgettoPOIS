@@ -10,6 +10,7 @@ Titolo
 Il progetto consiste nella realizzazione di un gioco che abbia le seguenti caratteristiche:
 
 è presente un menù da cui è possibile iniziare una nuova partita, visualizzare le istruzioni oppure uscire dal gioco;
+
 la schermata del gioco è caratterizzata dalla presenza di due "astronavi"(racchette) poste negli estremi superiore ed inferiore dello schermo, mentre nella parte centrale sono presenti tre tipologie di elementi:
 - palla;
 - mattoncini che stanno a guardia delle gemme e possono essere di tre tipologie a seconda della quantità di colpi necessaria a distruggerli;
