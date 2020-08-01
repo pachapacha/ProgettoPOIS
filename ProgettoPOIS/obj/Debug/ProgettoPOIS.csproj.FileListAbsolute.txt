@@ -1,0 +1,24 @@
+C:\POIS\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.exe.config
+C:\POIS\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.exe
+C:\POIS\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.pdb
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csprojAssemblyReference.cache
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.SchermataPrincipale.resources
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Properties.Resources.resources
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csproj.GenerateResource.cache
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csproj.CoreCompileInputs.cache
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.exe
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.pdb
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Menù.resources
+C:\POIS\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Istruzioni.resources
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.exe.config
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.exe
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\bin\Debug\ProgettoPOIS.pdb
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csprojAssemblyReference.cache
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.SchermataPrincipale.resources
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Istruzioni.resources
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Menù.resources
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.Properties.Resources.resources
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csproj.GenerateResource.cache
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.csproj.CoreCompileInputs.cache
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.exe
+C:\Users\Paca\Desktop\Prog Pois TEST\ProgettoPOIS\ProgettoPOIS\obj\Debug\ProgettoPOIS.pdb
